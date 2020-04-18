@@ -5,6 +5,7 @@
 1. Jonh's house has also a Garden
 1. Garden has walls
 1. A Wall (the same with the house's) has a Door
+1. In the Garden there is a Mouse called Mickey
 
 * John opens the garden door from inside the house
 * Ann runs from inside the house to the garden
